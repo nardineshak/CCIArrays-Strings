@@ -4,12 +4,12 @@ public class stringRotation {
         
     }
 
-    public static String isRotation(String s, String t) {
-        if (s.length() == t.length() && s.length() > 0) {
-            String ss = s + s;
-            // return isSubstring(ss, t); // book says to assume there is a method called isSubstring
-        }
-    }
+    // public static String isRotation(String s, String t) {
+    //     if (s.length() == t.length() && s.length() > 0) {
+    //         String ss = s + s;
+    //         // return isSubstring(ss, t); // book says to assume there is a method called isSubstring
+    //     }
+    // }
     
 }
 
